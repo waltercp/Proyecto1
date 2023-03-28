@@ -4,7 +4,7 @@ import Phrases from './component/Phrases'
 import phases from './utils/phrases.json'
 import getRandomArray from './utils/getRandomArrays'
 import { useState } from 'react'
-import Author from './component/author'
+import Author from './component/Author'
 
 
 const imgs = [1, 2, 3, 4]
