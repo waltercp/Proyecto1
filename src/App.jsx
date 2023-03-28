@@ -23,7 +23,7 @@ function App() {
   }
 
   const  perforatedTape= {
-    backgroundImage: `url(/public/contentPhrase/Imagen2.png)`
+    backgroundImage: `url(/public/contentPhrase/imagen2.png)`
   }
 
 
